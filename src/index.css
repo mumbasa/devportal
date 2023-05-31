@@ -1,8 +1,5 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +7,28 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+ .rdt_TableHeadRow {
+  color: #ced4da;
+  font-size: 0.875rem;
+  background: #343a40 !important;
+}
+
+
+nav.sc-eeDRCY.kqWIVd.rdt_Pagination {
+  color: #ced4da;
+  font-size: 0.875rem;
+  background: #212529 !important;
+}
+
+.rdt_TableRow {
+  color: #ced4da;
+  font-size: 1.875rem;
+  background: #343a40 !important;
+}
+
+.rdt_TableCell {
+  color: #ced4da;
+  line-height: 1.5;
+  font-size: 0.875rem;
 }
